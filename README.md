@@ -2,7 +2,7 @@
 ## How To Run
 To download the application from github
 ```
-git clone 
+git clone https://github.com/ziozine/shawn-F-W-A.git
 ```
 To start using this application, go to your terminal, in the root directory of this project, and type
 ```
