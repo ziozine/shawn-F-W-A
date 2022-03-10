@@ -1,0 +1,9 @@
+{
+	"name": "DataF9210",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9eec3f12-84db-4c65-84c1-4ef36f2e81d1",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
